@@ -1,5 +1,7 @@
 # Superstore Sales Analysis
 
+## My first project after 1 week of learning
+
 **Tools:** Excel, PivotTables, Charts  
 **Business question:** Which product categories generate the most profit 
 across regions, and what does the monthly sales trend look like?
