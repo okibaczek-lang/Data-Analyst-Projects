@@ -17,7 +17,7 @@ Each project starts with a **business question**, not a technology — and ends 
 - Clear seasonal pattern: sales peak in Q4 (November–December)
 
 **Files:** `Project-1-Excel.xlsx`
-**Skills demonstrated:** PivotTables, VLOOKUP, SUMIF, conditional formatting, data visualization
+**Skills demonstrated:** PivotTables, VLOOKUP, conditional formatting, data visualization
 
 ---
 
