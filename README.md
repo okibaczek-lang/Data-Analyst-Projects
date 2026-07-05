@@ -7,7 +7,7 @@ Each project starts with a **business question**, not a technology — and ends 
 
 ## 📁 Projects
 
-### 01 — Superstore Sales Analysis
+### 01 — Superstore Sales Analysis (mini-project)
 **Tools:** Excel, PivotTables, Charts
 **Business question:** *Which product categories generate the most profit across regions, and what does the monthly sales trend look like?*
 
@@ -22,19 +22,6 @@ Each project starts with a **business question**, not a technology — and ends 
 ---
 
 *Projects 2–5 coming soon: SQL analysis, Power BI dashboard, Python/Pandas pipeline, industry-specific analysis.*
-
----
-
-## 🗺️ Learning Roadmap
-
-| Month | Focus | Status |
-|---|---|---|
-| 1–2 | Excel (formulas, PivotTables, Power Query) | ✅ In progress |
-| 2–3 | SQL (SELECT → Window Functions) | 📅 Next |
-| 3–4 | Power BI (DAX, Data Modeling, Dashboards) | 📅 Coming |
-| 5 | Python + Pandas | 📅 Coming |
-| 6 | End-to-end project (SQL + Python + BI) | 📅 Coming |
-| 7–8 | Job search + interview preparation | 📅 Coming |
 
 ---
 
