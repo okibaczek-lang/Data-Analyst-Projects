@@ -11,13 +11,7 @@ Each project starts with a **business question**, not a technology — and ends 
 **Tools:** Excel, PivotTables, Charts
 **Business question:** *Which product categories generate the most profit across regions, and what does the monthly sales trend look like?*
 
-**Key findings:**
-- Office Supplies is the most profitable category across all regions
-- The East region consistently outperforms other regions in total sales
-- Clear seasonal pattern: sales peak in Q4 (November–December)
-
 **Files:** `Project-1-Excel.xlsx`
-**Skills demonstrated:** PivotTables, VLOOKUP, conditional formatting, data visualization
 
 ---
 
