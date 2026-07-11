@@ -9,6 +9,7 @@ Each project starts with a **business question**, not a technology — and ends 
 
 ### 01 — Superstore Sales Analysis (mini-project)
 **Tools:** Excel, PivotTables, Charts
+
 **Business question:** *Which product categories generate the most profit across regions, and what does the monthly sales trend look like?*
 
 **Files:** `Project-1-Excel.xlsx`
