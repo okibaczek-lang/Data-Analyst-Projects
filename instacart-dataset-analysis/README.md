@@ -27,7 +27,7 @@ Essential, frequently-consumed products (dairy eggs, produce, beverages) have th
 
 ---
 
-## Question 2: Top 3 Products per Department
+## Question 2: Top 3 Products from top 5 departments
 
 ![Top 3 products in top 5 departments](charts/q2_top_3_p.png)
 
