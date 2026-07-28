@@ -61,8 +61,8 @@ The gap between the average and the median indicates a right-skewed distribution
 
 *(minimum 50 orders per product, to exclude statistically unreliable small samples)*
 
-![Products with lowest reorder rate](charts/q4_lowest_reorder_rate.png)
-![Products with highest reorder rate](charts/q4_highest_reorder_rate.png)
+![Products with lowest reorder rate](charts/q5_lowest_reorder_rate.png)
+![Products with highest reorder rate](charts/q5_highest_reorder_rate.png)
 
 Products with the lowest reorder rate are almost exclusively one-time or infrequent purchases: skin care oil, cake decorations, bulk spices (cumin, rosemary, sage), glass cleaner, a cake pan, and cold/flu medicine. All have a reorder rate near 0 — customers buy them once and don't need them again soon.
 
@@ -84,17 +84,18 @@ Notably, "Ground Sage" has an unusually high order count (203) despite a 0% reor
 
 ```
 ├── README.md
-├── instacart_analysis.xlsx
+├── instacart-analysis.xlsx
 ├── queries/
-│   ├── q1_reorder_rate_per_department.sql
-│   ├── q2_top_3_products_per_department.sql
+│   ├── q1_reorder_rate.sql
+│   ├── q2_top_3_p.sql
 │   ├── q3_avg_items_per_order.sql
-│   ├── q4_basket_size_distribution.sql
-│   └── q5_highest_lowest_reorder_rate.sql
+│   ├── q4_basket_size.sql
+│   └── q5_highest_reorder_rate.sql
+│   └── q5_lowest_reorder_rate.sql
 └── charts/
     ├── q1_reorder_rate.png
-    ├── q2_top_products.png
+    ├── q2_top_3_p.png
     ├── q3_avg_items_per_order.png
-    ├── q4_lowest_reorder.png
-    └── q4_highest_reorder.png
+    ├── q5_lowest_reorder_rate.png
+    └── q5_highest_reorder_rate.png
 ```
