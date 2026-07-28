@@ -13,7 +13,7 @@ Which product categories drive the most repeat (reorder) behavior among Instacar
 ## Approach
 
 - SQL (PostgreSQL) for all aggregations, rankings, and filtering — queries are in [`/queries`](./queries)
-- Excel for visualization (pivot tables, bar charts) — full workbook: [`instacart_analysis.xlsx`](./instacart_analysis.xlsx)
+- Excel for visualization (pivot tables, bar charts) — full workbook: [`instacart-analysis.xlsx`](./instacart-analysis.xlsx)
 
 ---
 
