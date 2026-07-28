@@ -16,8 +16,13 @@ Each project starts with a **business question**, not a technology — and ends 
 
 ---
 
-*Projects 2–5 coming soon: SQL analysis, Power BI dashboard, Python/Pandas pipeline, industry-specific analysis.*
+### 02 - Instacart Dataset analysis
+**Tools:** SQL(PostgreSQL), Excel(pivot tables, bar charts)
 
+**Business question:** *Which product categories drive the most repeat (reorder) behavior among Instacart customers,
+and what does that mean for inventory and promotional priorities?*
+
+**Files:**  `instacart-dataset-analysis`
 ---
 
 ## 🛠️ Tools & Technologies
