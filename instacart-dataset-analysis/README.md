@@ -29,7 +29,7 @@ Essential, frequently-consumed products (dairy eggs, produce, beverages) have th
 
 ## Question 2: Top 3 Products per Department
 
-![Top 3 products in top 5 departments](charts/q2_top_products.png)
+![Top 3 products in top 5 departments](charts/q2_top_3_p.png)
 
 Each department's top sellers reflect its category clearly — organic whole milk dominates dairy eggs, bananas dominate the produce department, and sparkling/mineral waters dominate beverages. Demand within several departments (notably produce) is heavily concentrated around a handful of bestselling items.
 
@@ -61,8 +61,8 @@ The gap between the average and the median indicates a right-skewed distribution
 
 *(minimum 50 orders per product, to exclude statistically unreliable small samples)*
 
-![Products with lowest reorder rate](charts/q4_lowest_reorder.png)
-![Products with highest reorder rate](charts/q4_highest_reorder.png)
+![Products with lowest reorder rate](charts/q4_lowest_reorder_rate.png)
+![Products with highest reorder rate](charts/q4_highest_reorder_rate.png)
 
 Products with the lowest reorder rate are almost exclusively one-time or infrequent purchases: skin care oil, cake decorations, bulk spices (cumin, rosemary, sage), glass cleaner, a cake pan, and cold/flu medicine. All have a reorder rate near 0 — customers buy them once and don't need them again soon.
 
