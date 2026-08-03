@@ -92,7 +92,6 @@ The same analysis was also built as an interactive Power BI dashboard using DAX 
 ```
 ├── README.md
 ├── instacart-analysis.xlsx
-├── instacart-analysis.pbix
 ├── queries/
 │   ├── q1_reorder_rate.sql
 │   ├── q2_top_3_p.sql
