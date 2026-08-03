@@ -80,11 +80,19 @@ Notably, "Ground Sage" has an unusually high order count (203) despite a 0% reor
 
 ---
 
+Bonus: Power BI Dashboard
+
+The same analysis was also built as an interactive Power BI dashboard using DAX measures, demonstrating the average item count per order in each department and reorder rate.
+     
+<img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/f3a6fd1f-f63c-4c54-b47a-10b9a7b59a5c" />
+
+
 ## Folder Structure
 
 ```
 ├── README.md
 ├── instacart-analysis.xlsx
+├── instacart-analysis.pbix
 ├── queries/
 │   ├── q1_reorder_rate.sql
 │   ├── q2_top_3_p.sql
