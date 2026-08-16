@@ -16,21 +16,21 @@ Each project starts with a **business question**, not a technology — and ends 
 
 ---
 
-### 02 - Instacart Dataset analysis
-**Tools:** SQL(PostgreSQL), Excel(pivot tables, bar charts)
+### 📊 02 — Instacart Dataset Analysis
+**Tools:** SQL (PostgreSQL) · Excel (Pivot Tables, Bar Charts)
 
-**Business question:** *Which product categories drive the most repeat (reorder) behavior among Instacart customers,
-and what does that mean for inventory and promotional priorities?*
+**Business question:** Which product categories drive the most repeat (reorder) behavior among Instacart customers, and what does that mean for inventory and promotional priorities?
 
-**Files:**  `instacart-dataset-analysis`
+🔗 [`instacart-dataset-analysis`](./instacart-dataset-analysis)
+
 ---
 
-03 - Marketing Campaign Performance Dashboard
-Tools: Power BI (Power Query, DAX)
+### 📈 03 — Marketing Campaign Performance Dashboard
+**Tools:** Power BI (Power Query, DAX)
 
-Business question: Which marketing campaigns and channels deliver the best return on investment, and how does the conversion funnel look from impression to final conversion?
-Files: `marketing_dashboard`
----
+**Business question:** Which marketing campaigns and channels deliver the best return on investment, and how does the conversion funnel look from impression to final conversion?
+
+🔗 [`marketing-dashboard`](./marketing-dashboard)
 
 ## 🛠️ Tools & Technologies
 
