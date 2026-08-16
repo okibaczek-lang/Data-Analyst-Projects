@@ -30,7 +30,7 @@ Each project starts with a **business question**, not a technology — and ends 
 
 **Business question:** Which marketing campaigns and channels deliver the best return on investment, and how does the conversion funnel look from impression to final conversion?
 
-🔗 [`marketing-dashboard`](./marketing-dashboard)
+🔗 [`marketing_dashboard`](./marketing_dashboard)
 
 ## 🛠️ Tools & Technologies
 
