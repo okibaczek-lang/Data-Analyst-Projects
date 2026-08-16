@@ -25,6 +25,13 @@ and what does that mean for inventory and promotional priorities?*
 **Files:**  `instacart-dataset-analysis`
 ---
 
+### 03 - Marketing Campaign Performance Dashboard
+**Tools:** Power BI (Power Query, DAX)
+
+**Business question:** *Which marketing campaigns and channels deliver the best return on investment, and how does the conversion funnel look from impression to final conversion?*
+**Files:** `marketing_dashboard`
+---
+
 ## 🛠️ Tools & Technologies
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
